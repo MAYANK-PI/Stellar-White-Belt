@@ -24,12 +24,6 @@ Download and install Freighter Wallet:
 
 https://www.freighter.app/
 
-After installation:
-
-Open Freighter
-Select Testnet
-Fund your wallet using Friendbot
-https://friendbot.stellar.org/
 
 4️⃣ Start the Development Server
 npm run dev
