@@ -69,16 +69,8 @@ Horizon Testnet API – Fetch account balance and submit transactions
 JavaScript (ES6) – Application logic
 CSS3 – Wallet UI styling
 
-# Project Structure 
-Stellar-White-Belt/
-│
-├── src/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── screenshots/
-├── package.json
-└── README.md
+
+
 
 # Learning Goals
 - This project demonstrates:
